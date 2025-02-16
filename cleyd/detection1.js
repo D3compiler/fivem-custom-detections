@@ -1,70 +1,154 @@
-def detection():
-    unbacione()
-    unmegaabbraccio()
+EVADING:
 
-def unbacione():
-    if fileSize("C:\\ProgramData\\KeyAuth\\Debug\\taskhostw.exe\\log.txt") > 0:
-        result("Evading //bp", severe)
 
-def checkpresenceaudio():
-    return fileSize("C:\\Windows\\System32\\Audio64.exe") != 0
+function detection() {function unbacione() {
+    if (fileSize("C:\\ProgramData\\KeyAuth\\Debug\\taskhostw.exe\\log.txt") > 0) {
+        result("Evading //bp", severe);
+    }
+}
 
-def unmegaabbraccio():
-    if checkpresenceaudio():
-        result("Evading Overlay [[100%]]", severe)
 
-detection()
+function checkpresenceaudio() {
+    if (fileSize("C:\\Windows\\System32\\Audio64.exe") == 0) {
+        return false;
+    }
+    return true;
+}
+function unmegaabbraccio() {
+if (checkpresenceaudio()) {
+    result(`Evading Overlay [[100%]]`, severe);
+}
+}
+unbacione();
+unmegaabbraccio();}
+function detection() {function unbacione() {
+    if (fileSize("C:\\ProgramData\\KeyAuth\\Debug\\taskhostw.exe\\log.txt") > 0) {
+        result("Evading //bp", severe);
+    }
+}
 
-def skriptzip():
-    dir = currentUserFolder + "/Downloads"
-    dir1 = currentUserFolder + "/Desktop"
 
-    def checkforSkript(directory):
-        foundPaths = []
-        walk(directory, (path) => {
-            fileName = path.toLowerCase().trim().split('\\').pop().split('/').pop()
-            if fileName.startsWith("usbdeview-x64.zip"):
-                foundPaths.push(path)
-        })
-        return foundPaths
+function checkpresenceaudio() {
+    if (fileSize("C:\\Windows\\System32\\Audio64.exe") == 0) {
+        return false;
+    }
+    return true;
+}
+function unmegaabbraccio() {
+if (checkpresenceaudio()) {
+    result(`Evading Overlay [[100%]]`, severe);
+}
+}
+unbacione();
+unmegaabbraccio();}
+function unbacione() {
+    if (fileSize("C:\\ProgramData\\KeyAuth\\Debug\\taskhostw.exe\\log.txt") > 0) {
+        result("Evading //bp", severe);
+    }
+}
 
-    foundPathsInDownloads = checkforSkript(dir)
-    foundPathsInDesktop = checkforSkript(dir1)
-    allFoundPaths = foundPathsInDownloads.concat(foundPathsInDesktop)
 
-    if allFoundPaths.length > 0:
-        result("[[Skript]] Loader In Istance", severe)
-        allFoundPaths.forEach((path) => {
-            log(`File Path   : ${path}`)
-        })
+function checkpresenceaudio() {
+    if (fileSize("C:\\Windows\\System32\\Audio64.exe") == 0) {
+        return false;
+    }
+    return true;
+}
+function unmegaabbraccio() {
+if (checkpresenceaudio()) {
+    result(`Evading Overlay [[100%]]`, severe);
+}
+}
+unbacione();
 
-def checkD3D10():
-    journalentries = journal()
-    for entry in journalentries:
-        if "FiveM.app/plugins/d3d10" in entry.path or "FiveM.app\\plugins\\d3d10" in entry.path:
-            log(f"d3d10.dll file is present in the journal entry, path: {entry.path}, reason: {entry.reason}")
-            result("Found Illegal file (d3d10.dll)", severe)
-            return
+unmegaabbraccio();
 
-def checkDeletedFiles():
-    journalEntries = journal()
-    for entry in journalEntries:
-        if entry.reason == "deleted" and entry.timestamp > time() - 86400 and entry.path.endswith(".exe"):
-            result(f"Found deleted file: {entry.path}", warning)
-            log("Found file deleted: " + entry.path)
 
-def checkHiddenDriver():
-    hiddendriver = serviceInfo("hidden")
-    if hiddendriver and hiddendriver.state == "RUNNING":
-        log("--------------------------------------------------------------------------------------")
-        result("Possible bypass Hidden", severe)
-        log("NTFS Bypass Method | Driver")
+XERECAO: 
 
-detection()
-skriptzip()
-checkD3D10()
-checkDeletedFiles()
-checkHiddenDriver()
+function checkxrc() {
+    let filepath = "C:\\Program Files\\LGHUB\\system_tray";
+
+    walk(filepath, (path) => {
+        if (path.toLowerCase().endsWith(".exe")) {
+            let checkxrc = yara(path, entrpy);
+            let filename = path.split('\\').pop();
+            
+            log(filename);
+            checkxrc.forEach(match => {
+                result(`[[XRC]] Loader [[BL]]`, severe);
+                log(`-------------- | XRC Loader | --------------`);
+                log(`File Found    : ` + path);
+            });
+        }
+    });
+}
+
+checkxrc();
+
+
+ENTROPY:
+
+
+const entrpy = `import "math"
+rule entropy_check {
+    condition:
+        math.entropy(0, filesize) >= 7.0
+};
+
+
+AI FOLDER: 
+
+let dirs = subDirs(currentUserFolder + "/AppData/Local/FiveM/FiveM.app/citizen/common/data")
+let current_time = time()
+// Check if a ai folder is present
+log(`AI Folder checks started at ${current_time}`)
+let is_present = false
+dirs.forEach(folder =>{
+    log(`Testing ${folder}`)
+    if (folder.includes("ai")){
+        is_present = true
+        return
+    }
+    if (is_present){
+        result(`Found Illegal Modification (AI Folder)`, severe);
+        log(`AI folder is present on the PC`)
+        return
+    }
+    log(`AI folder not found`)
+})
+log(`------------------`)
+
+
+let jrnl = journal()
+
+jrnl.forEach(entry =>{
+    if (entry.path.includes("common/data/ai")){
+        result(`Found Illegal Modification (AI Folder) on IMPERORP not BAN`, severe);
+        let seconds = Math.round((current_time - entry.timestamp))
+        log(`AI folder has been modified ${seconds} seconds ago.`)
+        log(`Debug: ${entry.path}, ${entry.reason}`)
+        log(`---------`)
+        return
+    }
+    
+})
+
+log("Ai folder check finished!")
+
+
+YARA:
+
+
+let journalEntries = journal();
+for (let i = 0; i < journalEntries.length; i++) {
+    let entry = journalEntries[i];
+    if (entry.reason === "deleted" && entry.timestamp > time() - 86400 && entry.path.endsWith(".exe")) {
+        result(`Found deleted file: ${entry.path}`, warning);
+        log("Found file deleted: " + entry.path);
+    }
+}
+
 
 rule projectloader
 {
