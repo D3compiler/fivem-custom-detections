@@ -1,0 +1,3040 @@
+{
+  "processes": [
+    "svc:DPS",
+    "ctfmon.exe",
+    "svc:Diagtrack",
+    "svc:dnscache",
+    "dwm.exe",
+    "explorer.exe",
+    "lsass.exe",
+    "svc:PcaSvc",
+    "svc:.sha1",
+    "spotify.exe",
+    "chrome.exe",
+    "svc:Cryptsvc",
+    "msedge.exe",
+    "brave.exe",
+    "svc:Scheduler",
+    "svc:schedule",
+    "svc:Eventlog"
+  ],
+  "strings": [
+    {
+      "name": "C$Generic Bypass [BETA VERSION]$Severe",
+      "process": "spotify.exe",
+      "string": "C:\\Windows\\System32\\gcapi.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$XRC Loader [BETA VERSION]$Severe",
+      "process": "spotify.exe",
+      "string": "xerecao.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Bypass Loader [BETA VERSION]$Severe",
+      "process": "spotify.exe",
+      "string": "keyauth.win",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://xenon-solution.xyz/app/xenon.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://cdn.gosth.ltd/launcher.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] [B] Website Accessed [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://skript.gg/panel/dashboard",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [B] Website Accessed [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://susano.re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://eulen.cc/Loader2",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [B] Website Accessed [[BW]]$Severe",
+      "process": "brave.exe",
+      "string": "https://susano.re/",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://xenon-solution.xyz/app/xenon.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://cdn.gosth.ltd/launcher.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] [C] Website Accessed [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://skript.gg/panel/dashboard",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [C] Website Accessed [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://susano.re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://eulen.cc/Loader2",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [C] Website Accessed [[BW]]$Severe",
+      "process": "chrome.exe",
+      "string": "https://susano.re/",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "cdn.gosth.ltd",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$test$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "skript.gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[KeyAuth]] Connection [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "keyauth.win",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[KeyAuth]] Connection [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "keyauth.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "xenon-solution.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[XRC]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "xerecao.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "hxsoftwares.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "xenon-solution.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "api.tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "antiecho.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexize]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "104.234.65.131",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "039102931293102.store",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Reversed [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "reversing.pw",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexless]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "api.shilav2.shop",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[MWByte]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "mwbyte.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "susano.re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "sentinal.dev",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Type [CW]$Severe",
+      "process": "ctfmon.exe",
+      "string": "6e6f4e616d65.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Lavander [CW]$Severe",
+      "process": "ctfmon.exe",
+      "string": "miyalaaskim.sys",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Journal]] Deleted [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "fsutil usn deletejournal",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Journal]] Creation [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "fsutil usn createjournal",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Process Hollowing]] Detected [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "<payload path> [*target path]",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sucuni]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "pcinfo.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sucuni]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "CPU_COLD.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stars Solution]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "stars_solution.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Possible [[Skript]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "USBDeview.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "xenon.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "loader_prod.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Suspicious File]] Executed [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "gamenote.js",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "EscapeService-PvP.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "[[Susano]].re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "ec2-3-235-182-75.compute-1.amazonaws.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "[[Skript]].gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "fivem-projectcheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Degeo]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "www.degeoacademy.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Monster]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "monstermenu.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "ec2-3-235-182-75.compute-1.amazonaws.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.projectcheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "vps93241.serveur-vps.ne",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[RedEngine]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "wsauth.redengine.eu",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Keyauth]] Connection [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "keyauth.win",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[RedEngine]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "wsauth.redengine.eu",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Monesy Bypass]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.kanzake.gay",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Macho]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "machocheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[No-Name]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "no-name.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Exent]] Bypass Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "exent.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ghost]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "ghostesportpanel.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "testo.gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sicario]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "ezilax.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ciapak]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "fivem.ciapak.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Possible [[Gosth]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "131.196.198.0-24.bbhost.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "xenon-solution.xy0",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "tzproject",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "hxsoftwares.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Possible [[Gosth]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "131.196.198.50",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.aiocv.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.learnenglish.store",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.tryhardnelfen.shop",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "mail.technoilt.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.fivemmumble.site",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Website/Api [[Gosth]] [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "gosth.ltd",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stopped Bypass]] Cheat Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "stoppedbypass.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "projectdow.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Dumb.lat Bypass]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.dumb.lat",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader II [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "nvcontainerschedulertask.art",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader I [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "nvcontai.art",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender Premium]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "lavenderpremium.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.blackout.wtf",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unity Fivem]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "skyproject.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "191.96.81.227",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "191.96.81.0-24.bbhost.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[XRC]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "xerecao.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[FlySide]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.imber.dev",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "simdikaybettiginasklar.icu",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "antiecho.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexize]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "104.234.65.131",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "039102931293102.store",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Reversed [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "reversing.pw",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexless]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "api.shilav2.shop",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[MWByte]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "mwbyte.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "xenon-solution.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "sentinal.dev",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/11/03:15:27:15!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Flyside]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/10/12:22:13:13!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Hammafia]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/08/13:14:17:36!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ghost]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/11/16:11:54:52!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Degeo]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/05/19:08:09:44!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/08/29:14:36:27!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2084/09/24:15:42:54!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/01/17:05:09:36!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sicario]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2023/06/12:20:28:54!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/01/19:14:55:18",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[No-Name]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2023/12/26:17:14:23",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!1993/03/02:09:29:06!bf7a2316!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/01/10:05:39:09",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Cocaina]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2023/12/11:01:08:44",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/02/12:22:48:27",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/02/12:22:48:27",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2066/11/19:15:17:39",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2023/12/13:20:14:01",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[External Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/04/19:17:18:51",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/04/10:18:46:51",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "svhost.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/04/24:08:41:58!0!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Transacted Hollowing]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2021/08/18:21:30:24",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Get HWID Client]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "hwid_get",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sucuni]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "CPU_COLD.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sucuni]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "pcinfo.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/02/13:05:21:10",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2023/12/13:20:14:01",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2038/07/11:07:30:54",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/05/13:23:07:42",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/05/11:23:34:05",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/05/20:20:38:54",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/05/18:20:20:27",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/06/09:18:07:04",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/06/10:03:20:58",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[MacroGamer]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2007/05/25:14:27:07",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/02/29:02:10:02!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "0x2ea6000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/05/18:04:29:01",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/05/14:20:43:36!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/07/01:15:27:52!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Dumb.lat]] Bypass Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/07/16:21:10:30!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/06/03:19:28:43",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Bypass [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/07/18:12:18:42",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Get HWID Client [K]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/06/05:00:35:51",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/06/15:03:29:18",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2086/12/14:10:49:36",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AcreV2]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/03/24:19:20:24",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Flyside]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/07/24:01:25:59",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/08/17:01:05:56!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/08/23:00:05:09!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/08/22:13:45:08!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/08/24:00:37:10!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/07/08:23:42:07",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "1988/10/12:22:56:06",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader I [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/08/03:00:31:22",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "TDPremium.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "tdpremium.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "tdpremium_cracked.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/09/16:12:15:21!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "tdloader.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "Escape Service Cheat[Free].exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Farinha]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "farinhamenufree.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Farinha]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "farinhamenufree (1).exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Farinha]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "farinhamenufree (2).exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Farinha]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/09/21:15:47:23",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stars Solution]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "stars_solution.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "cleanpc.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/09/26:17:02:14",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stars Solution]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/09/26:17:02:14",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/09/30:21:21:33!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Possible [[Skript]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "USBDeview.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "xenon.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/10/20:16:37:58!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/06/21:00:15:36",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "external.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "PvP-EscapeService.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/10/19:05:42:12",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "loader_prod.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/11/22:16:13:03",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Suspicious File Executed [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2021/07/05:23:19:12",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Suspicious File Executed I [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "gamenote.js",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "EscapeService-PvP.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2024/12/26:03:32:44",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/09/05:00:21:21!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/11/10:01:59:24!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/12/19:22:17:37!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/07/08:23:42:07!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/11/22:16:13:03!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/12/26:03:32:44!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/06/21:00:15:36!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2024/12/24:16:51:23!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Usage Virtual Disk [W]$Severe",
+      "process": "dwm.exe",
+      "string": "uninstall_imdisk.cmd",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] [W]$Severe",
+      "process": "dwm.exe",
+      "string": "6e6f4e616d65.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Process Hollowing Detected [W]$Severe",
+      "process": "dwm.exe",
+      "string": "<payload path> [*target path]",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Lavander [W]$Severe",
+      "process": "dwm.exe",
+      "string": "miyalaaskim.sys",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [W]$Severe",
+      "process": "dwm.exe",
+      "string": "USBDeview.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[RedEngine]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "settings.cock",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Deletion Shadow Copies [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "wmic shadowcopy delete",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "6e6f4e616d65.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "svhost.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavander]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "miyalaaskim.sys",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Cheat [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "khublauncher.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TDLoader (1).rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TDLoader.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "Escape Service Cheat[Free].exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Keyser]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "C:\\Windows\\IME\\auth.json",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stars Solution]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "stars_solution.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX.zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (1).zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (2).zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (3).zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (3).rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (2).rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX (1).rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [E]$Severe",
+      "process": "explorer.exe",
+      "string": "TZX.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "USBDeview.dll",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "xenon.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "skript.gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "fivem-projectcheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Degeo]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "www.degeoacademy.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Monster]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "monstermenu.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Keyauth]] Connection Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "keyauth.win",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "projectcheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [SYS]$Severe",
+      "process": "lsass.exe",
+      "string": "pt.gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Macho]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "machocheats.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[No-Name]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "no-name.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Exent]] Bypass Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "exent.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ghost]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "ghostesportpanel.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "testo.gg",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Sicario]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "ezilax.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ciapak]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "fivem.ciapak.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "xenon-solution.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "xenon-solutions.xy0",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [Z5]$Severe",
+      "process": "lsass.exe",
+      "string": "http://pki.goog/repo/certs/gts1p5.der0!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [Z4]$Severe",
+      "process": "lsass.exe",
+      "string": "%http://pki.goog/repo/certs/gts1p5.der0!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [C9]$Severe",
+      "process": "lsass.exe",
+      "string": "http://ocsp.pki.goog/s/gts1p5/L4ezdh_Cj8U01",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$1 [BETA]$Severe",
+      "process": "lsass.exe",
+      "string": "http://ocsp.pki.goog/s/gts1p5",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "tzproject.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ/TZX]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "tzproject",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "hxsoftwares.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$0 [BETA]$Severe",
+      "process": "lsass.exe",
+      "string": "e1.i.lencr.org",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$0 [BETA I]$Severe",
+      "process": "lsass.exe",
+      "string": "cps.root-x1.letsencrypt.org0",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$0 [BETA II]$Severe",
+      "process": "lsass.exe",
+      "string": "x2.c.lencr.org",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "131.196.198.50",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$0 [BETA III]$Severe",
+      "process": "lsass.exe",
+      "string": "http://crl.identrust.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.aiocv.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.learnenglish.store",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.tryhardnelfen.shop",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.fivemmumble.site",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "gosth.ltd",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stopped Bypass Cheat]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "stoppedbypass.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Project Cheat]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "projectdow.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Dumb.lat Bypass]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.dumb.lat",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader II [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "nvcontainerschedulertask.art",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader I [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "nvcontai.art",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender Premium]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "lavenderpremium.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.blackout.wtf",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unity Fivem]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "skyproject.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "191.96.81.0-24.bbhost.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "191.96.81.227",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[XRC]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "xerecao.com.br",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[FlySide]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.imber.dev",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "simdikaybettiginasklar.icu",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "antiecho.xyz",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexize]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "104.234.65.131",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "039102931293102.store",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Reversed [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "reversing.pw",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexless]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "api.shilav2.shop",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[MWByte]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "mwbyte.com",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "susano.re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "sentinal.dev",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://xenon-solution.xyz/app/xenon.rar",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://cdn.gosth.ltd/launcher.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] [M] Website Accessed [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://skript.gg/panel/dashboard",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [M] Website Accessed [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://susano.re",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://eulen.cc/Loader2",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] [M] Website Accessed [[BW]]$Severe",
+      "process": "msedge.exe",
+      "string": "https://susano.re/",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x1dd000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Cocaina Project]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x147000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x2dd2000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x55a05f",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x2e1f000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[External Cheat]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x4f0000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x2e1f000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x559067",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x1256000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x3450000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x1cb0000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x1d8a000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xd32000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x3620000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x4a00000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[MacroGamer]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x86000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x341000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x22da000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x196d000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Dumb.lat Bypass]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x4c000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x185000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Bypass [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x20d000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Get HWID Client [K]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xae0000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x35c2000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stopped]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x46c000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xe6000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AcreV2]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x156000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xc3b000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x17e1000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xc2c000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[D]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xcbb000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavander]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "miyalaaskim.sys",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Cheat [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "khublauncher.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x292d000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "Escape Service Cheat[Free].exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x248000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x1285000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Transacted Hollowing [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x62000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Kapture]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x894a000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "loader_prod.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Suspicious File Executed [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "gamenote.js\t",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x694000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x28d9000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0xe26000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x12b000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x3512000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x2ca6000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x3ba000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x17e6000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "368b4264853904933c041bb822b9981f58e7c667",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "796448a3bdba1992cda82f94e1a9d2d2fc2e26c6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "492680c07b7edb4797c11d84ccf504734308515d",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "794779234bcd75b417d40623b1bd073fe08c641b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "a10ae00a9bacdb93bc84b5fa9106875cfb4d07e4",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Testo.gg]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "16f2b4ee725d2e60b89540e044b96fc4b239406b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d5f97b0f0e5a4a293a370d30c4767f517d977181",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "f5f4e92cbe6fdc31140c9ecb08390716d6982a8c",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "796448a3bdba1992cda82f94e1a9d2d2fc2e26c6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Stopped Bypass]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "f77b25b03879a8d5a609a2aabd6b6980c9256a9b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Dumb.lat Bypass]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "be45403b8fa97346bdaa66eacf087d8fcfcf0290",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic [[Skript]] Bypass Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "17537a1ebd7fbc64a956d6cc094053c519bc6c1b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic [[Gosth]] Bypass Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c5e7996781d7550460d90a025a7118349d4511e6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Vexer]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6856a2c927c5e4dc3e51419161cb4db3f478e5b5",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "4ff96900d62bc77edbac29486c2a3d4ad33cbb5e",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Susano]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "ba953cb286b4187e4ec90c77c692c89e943ca57f",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d43c26fbd52d7b7257e570d06acc8c67f9c2d70d",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6ad0cd742c34102e2a8b3f21a725a663a3a8c46a",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c4af7eaa477100d55c15791376b14d118bed70f2",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "28283bb2d6283bfc876349f976df2abb693d326c",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "bd21890a0916ca10ebcee5b7f8a8a248ddbe18a6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZX]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6e1ef491c6244870367664f23d3687a068551daf",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6cbe86f22921b43e1a0b4d6391747524ddf8f90a",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TZ]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "cb08b44098b981725c61941e754ed4526bf1cf81",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "e649683bc7c9b96f917f4c5e569ab1bc33ad85a9",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[HX]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "dcde236cbb6d3520bf4c0954e7d8c286b1531321",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "368c24c6577efc071d90ee4103c3c5923da9c8a6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "4ef630c9d3fc9ae463d616606c0a6cc9f0109dbe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "9c535dc9c0bc535769ca5c249f08b6c22bf28977",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "3d61ffdf13692da0fc0d37eafbb2ef79a2f84fb3",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d2e9088c94c34016c0427f9dbcc4958d9b472a91",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "492680c07b7edb4797c11d84ccf504734308515d",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Runner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "4c2ca0773f03f7c8e32ce875ae3e7b2e8996c9b8",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c981e506dd06d254c456b64fb01de3e5a73ee178",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "e12e67120b4e9565fdab23a6046398c1a5e37968",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Hydrogen]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "e0d17879aaa3763183658394c17ba2c1c0c5a59b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Spoofer]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "2769342ab3ac0974e4f7944ea889efbb4958ae3c",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender Premium]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "ba75c4442c70edd2a996235fd700a23b045754bd",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender Premium]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "b15395854316ec10d33a438bb5cc7dad8981e3cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Lavender Premium]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "622e99b274024e030776176c0b90da348a7556f1",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Flyside]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d661c7c624ecbd886ff953a7a0acbe4555fc9145",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "dec3798931c574fdff3782b6dc8b893cebd843e6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Bypass [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "dc13e025795c454fe33f7f628f55d55934ea3c41",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Get HWID Client [K]$Severe",
+      "process": "svc:.sha1",
+      "string": "274944d46e90efdecdae20627173f53731510d61",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Unicore]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d46c79c432d25fdbf6d7e26a5156ceae6c53ccc5",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Obfuscated Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "472aa2e7e90130c1a4f1bd731fe6627788d1d1a1",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "a4c6312b38789db27ebceff55b0bc8e28b5944ab",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "aa6c8c4ad02eb05b0b060aec9ee82c4e2c575940 ",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "b2a2ffeacc84ad561aeb6211cae8310e9b080fa4",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AcreV2]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6e0c5ee0afe4929514ecd1dd1c3534da6bda2c9e",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "568cfc60771bee0cf9f887e59ab580dceeffc900",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "54358ace85e559ba943033e6dfafa26a9e754055",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "699949d3d1175499f1bc7127ffc4dccc2fabada9",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "17c0cc98c2a6d9320f418b3296d116bb52fc1395",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c4045a37b9d4dd9da432edefc8947f7eced0a186",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "be21cddeaf6c5745930be4379bca02053a2d3f15",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "ce478ad685405faba5027dd6444ced46a3e46269",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "ce478ad685405faba5027dd6444ced46a3e46269",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "9629e194ac8605bb445b2f33b6a75dc6cc988c9a",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Skript]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c5e73c4785764a556bfcda97c8e1fc6c646ec531",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[AntiEcho]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "06320a8a041bfe49790c85dcd9719be537954b2d",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Wexize]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "5b5945d5ed55a867a046b22e0975062c22549b3b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "4f602c132dc91218ec917b24dc9032c0064c883a",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Transacted Hollowing [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "b3125fff83894703ce45830258f8aa6e1898679c",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Monitor Viewer (S)$Severe",
+      "process": "svc:.sha1",
+      "string": "9d2ae99bbf62ce93383a136c2bb96200c20bae96",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$Generic Monitor Viewer (S)$Severe",
+      "process": "svc:.sha1",
+      "string": "48b3310bec24198a7b56de58651f572ecd2a7c8f",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Eulen]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "2f60e2956284937d7b36ff7c928ea123accb391c",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$BleachBit Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "dc554be0cde3c61490bc377a46f0d34c41385e1b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "207f56ec0c3e984dcd74664ac1ef0765413dda4a",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading]] Loader I [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "a659f7ed905045db5102af4b8c323bb55fb5a0b7",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading]] Loader II [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "e2d3a5815c959c3978388682ca1cb753f27ea58b",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cleaner]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "d06a5eb17b0bb36a8efb5d06a9c11bf54e7b2360",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Escape Service]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "301597f567ab220754c442732b16c535bd2a9c56",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "86357e1fd581b3ed88141ecd36d95ad97c2c91e1",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[TD]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "b27c9ced6419575d18e0be9a79985a1937a0e8c9",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Blackout]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "dec3798931c574fdff3782b6dc8b893cebd843e6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Xenon]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "96b050cc7b1fdfe169d9d59b69d43ee2b20a328f",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "80aa0175745545bec626601fe91039fb36fbd3cb",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Gosth]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "53d8b9f50743045ae3bb417edd8ee62481d5ec10",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "a563ed92a0507bd1877bc751e671ad443870d1d4",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "258d235b9109c7d90516ea94b1a268afd34d9ad1",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] DLL [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "6daf31023d456e8cb85ecfb154eb016b596fb0e6",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "donerkebab.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[U]]$Severe",
+      "process": "svc:DPS",
+      "string": "Audio64.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[ST]]$Severe",
+      "process": "svc:Scheduler",
+      "string": "Audio64.exe\t",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[GK]]$Severe",
+      "process": "svc:Diagtrack",
+      "string": "audio64.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[SH]]\t$Severe",
+      "process": "svc:schedule",
+      "string": "Audio64.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Windows Defender]] Exclusion [[C:\\]]$Severe",
+      "process": "svc:Eventlog",
+      "string": "HKLM\\SOFTWARE\\Microsoft\\Windows Defender\\Exclusions\\Paths\\C:\\ = 0x0",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Reversed Engine]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "c84b70848e8c36d2740d3f7059b5176b06ba830f",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Reversed Engine]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "!2025/01/20:16:28:56!",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Reversed Engine]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x183e000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Bypass]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "AppData\\Roaming\\fyne",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Bypass]] Loader [[CW]]$Severe",
+      "process": "ctfmon.exe",
+      "string": "AppData\\Roaming\\fyne",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Evading Overlay]] Loader [[EL]]$Severe",
+      "process": "explorer.exe",
+      "string": "C:\\Program Files (x86)\\MSBuild\\Microsoft.exe",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[S]]$Severe",
+      "process": "svc:.sha1",
+      "string": "0cc0935127b67aebb66a2347b90bde445caa5d92",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[PW]]$Severe",
+      "process": "svc:PcaSvc",
+      "string": "0x440000",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Generic Cheat]] Loader [[D]]$Severe",
+      "process": "svc:DPS",
+      "string": "2025/02/01:16:14:20",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Exora]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "exora.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Exora]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "exora.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Exora]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "exora.cc",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ecstasy]] Loader [[DE]]$Severe",
+      "process": "svc:dnscache",
+      "string": "ecstasy.zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ecstasy]] Loader [[CY]]$Severe",
+      "process": "svc:Cryptsvc",
+      "string": "ecstasy.zip",
+      "in_instance": false,
+      "severity": "Severe"
+    },
+    {
+      "name": "C$[[Ecstasy]] Loader [[WX]]$Severe",
+      "process": "lsass.exe",
+      "string": "ecstasy.zip",
+      "in_instance": false,
+      "severity": "Severe"
+    }
+  ]
+}
