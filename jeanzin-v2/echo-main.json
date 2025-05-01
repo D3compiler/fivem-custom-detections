@@ -1,0 +1,2408 @@
+{
+  "gameStrings": {},
+  "dpsStrings": {
+    "0e04f9e1-8d12-4bd1-81fe-39c8a0e27e67": [
+      "2023/09/02:14:50:49"
+    ],
+    "121ef6ea-5b9f-41cf-8cff-6d6d44d7f1a7": [
+      "2023/11/03:03:46:29"
+    ],
+    "1ae6033b-49cf-4637-9809-2acf99f2e743": [
+      "2024/02/29:22:56:05"
+    ],
+    "1fa8b01e-3f34-41f4-bcfd-b95618e5039c": [
+      "2020/12/26:23:27:40",
+      "2023/05/07:00:21:53"
+    ],
+    "2638c56f-d03d-4589-b76e-6823d3a56d26": [
+      "2024/01/05:18:11:37"
+    ],
+    "2675f5ee-0722-4f8d-929e-7a48471aca3f": [
+      "2023/08/29:14:36:27"
+    ],
+    "28561505-7d9a-4825-a890-78cdd4d58d8e": [
+      "2024/02/10:08:54:03"
+    ],
+    "34b2c2a2-559d-45de-9097-45c2d7ba85a0": [
+      "2029/12/13:09:14:12",
+      "2029/12/13:09:14:12"
+    ],
+    "3e58e8a8-27bd-4b96-930f-4e7fd2db15be": [
+      "2021/03/16:07:19:45"
+    ],
+    "4483fed2-04f9-4a87-9f24-8ed7a024c87a": [
+      "!2023/09/21:20:39:10!0!",
+      "2023/09/21:20:39:10!0!"
+    ],
+    "480df05f-180a-4e64-acbc-8bee7613add4": [
+      "2017/12/10:09:47:39"
+    ],
+    "490d6cab-4cd3-49a4-9e1c-9d08b31a1efd": [
+      "2023/03/27:10:40:52",
+      "2024/02/10:12:30:11"
+    ],
+    "50a758fc-82a9-4768-967a-87f215a46339": [
+      "2019/11/28:20:32:47"
+    ],
+    "50c06764-552c-4d9d-912b-3be916ce72a0": [
+      "2023/08/19:10:26:00",
+      "!2023/08/19:10:26:00",
+      "!2023/08/20:13:49:43",
+      "2023/08/20:13:49:43",
+      "!2023/08/27:19:00:40",
+      "2023/08/27:19:00:40",
+      "!2023/08/05:21:31:29",
+      "!2023/01/01:12:19:36",
+      "2023/09/09:23:31:46",
+      "2023/08/29:14:36:27",
+      "2023/01/12:17:56:32",
+      "2023/11/22:23:35:16",
+      "2023/12/12:19:31:43",
+      "2023/12/01:21:47:40",
+      "2022/12/15:08:12:50",
+      "2023/01/12:17:56:32",
+      "2023/08/29:23:42:34",
+      "2023/12/06:22:05:33",
+      "2023/08/17:17:20:03",
+      "2091/08/09:07:40:44",
+      "2045/04/30:15:59:41",
+      "2039/10/12:20:28:59",
+      "2023/12/09:22:42:53",
+      "2023/12/21:12:26:39",
+      "2023/12/19:13:14:59",
+      "2024/01/27:12:07:24",
+      "2023/05/19:08:09:44",
+      "2024/03/19:16:05:01",
+      "2024/02/13:14:55:27",
+      "2022/04/13:17:33:54"
+    ],
+    "527353a6-4aeb-4db7-bd7f-9368edd1f8dd": [
+      "2024/03/14:20:42:24",
+      "2024/04/10:20:46:51",
+      "2024/05/12:00:34:05",
+      "2024/05/11:23:34:05"
+    ],
+    "55b4b85a-95ed-4f1b-985e-0b72ff08b9ec": [
+      "2021/04/30:21:43:16",
+      "2021/05/05:23:17:59",
+      "2021/08/16:21:59:25",
+      "2021/09/15:01:12:14",
+      "2021/09/15:01:16:28",
+      "2021/10/25:16:59:12",
+      "2021/10/25:17:05:17",
+      "2022/02/04:01:29:58",
+      "2022/04/04:00:19:34",
+      "2022/04/20:19:55:38",
+      "2022/05/18:16:51:49",
+      "2022/06/13:12:16:58",
+      "2022/06/21:20:13:46",
+      "2022/07/18:00:11:54",
+      "2022/07/29:18:28:18",
+      "2022/07/29:23:19:59",
+      "2024/02/29:02:10:02"
+    ],
+    "6d4ee1d6-51f7-4515-8fb8-c1c56736de24": [
+      "2021/10/16:20:26:25",
+      "2021/09/17:09:14:26",
+      "2021/03/16:06:19:45",
+      "2021/03/16:07:19:45",
+      "2019/11/28:20:32:47",
+      "2021/05/24:02:07:42",
+      "2021/11/21:02:20:39",
+      "2020/05/01:13:54:59",
+      "2022/04/02:04:32:10",
+      "2021/09/17:09:14:26"
+    ],
+    "6d84eabc-e992-415f-bf49-8eef8a220062": [
+      "2023/03/24:20:34:45",
+      "2006/05/17:05:22:41"
+    ],
+    "6ead1dc4-6ef1-4913-99ac-7244abe2c31c": [
+      "!2023/03/11:14:46:52!0!",
+      "2023/03/11:14:46:52!0!",
+      "2023/01/12:17:56:32"
+    ],
+    "728c7dfb-d552-45f6-96cf-37b48bd7f8d1": [
+      "2054/11/22:18:37:58",
+      "2054/11/22:19:37:58",
+      "2021/09/16:05:37:44",
+      "2021/09/16:05:40:19",
+      "2021/08/10:18:47:43",
+      "2101/06/19:13:23:40",
+      "2052/10/27:02:09:03"
+    ],
+    "79607844-2103-460c-8105-6d56ae8e8357": [
+      "2025/02/12:17:53:38"
+    ],
+    "7c2ba9f7-5eac-4f06-ac3b-39c6b29c6fd6": [
+      "2014/05/29:13:52:29"
+    ],
+    "7d21732a-a7c8-4b28-9145-c1a2b42d8801": [
+      "!2023/08/29:14:36:27!2515d3!",
+      "2023/08/29:14:36:27!2515d3!",
+      "2024/02/23:02:43:18"
+    ],
+    "825ced25-8e50-4f5c-a729-b59f86f3f6ae": [
+      "2024/03/11:19:58:06"
+    ],
+    "892c9039-ce9f-4265-b1e7-a14c94a310fb": [
+      "2024/02/12:16:11:50"
+    ],
+    "97ba8bc7-6e32-49ad-9fc4-a626295dbfd3": [
+      "2025/02/19:19:19:52"
+    ],
+    "a142dbce-8943-47d6-ad19-46504245eb93": [
+      "2021/11/21:13:50:18"
+    ],
+    "a3ff9c0e-14c5-4017-a3b8-2102b354cd4c": [
+      "2022/01/27:06:14:36",
+      "2022/02/07:02:44:50",
+      "2022/02/15:06:39:57",
+      "2022/02/21:01:44:07",
+      "2021/09/19:13:02:42",
+      "2022/07/16:06:19:21",
+      "2024/03/09:19:54:59"
+    ],
+    "a404cd8e-f13b-47a0-992a-df4272fd0f33": [
+      "2021/11/22:05:14:57",
+      "2022/04/15:21:54:30",
+      "2022/05/29:17:32:03",
+      "2068/04/24:03:23:40",
+      "2023/04/24:17:39:46",
+      "2023/04/11:17:14:02"
+    ],
+    "a441336b-e1bc-4c1a-a5b4-e9c67ade0566": [
+      "2023/01/31:03:48:41",
+      "2023/05/16:20:22:33"
+    ],
+    "b985ce1c-9bc4-45ce-bbcf-942f9d224910": [
+      "2023/05/11:15:28:11"
+    ],
+    "c06cb459-059f-4ba8-ac7c-a476a7d54cde": [
+      "2024/02/13:05:21:10"
+    ],
+    "c14d031a-9382-4573-85fa-5bf4210620da": [
+      "2017/11/19:17:14:16",
+      "2018/04/28:15:32:22",
+      "2019/05/12:18:09:20",
+      "2019/05/12:17:52:09",
+      "2019/05/12:17:51:39",
+      "2019/05/12:17:30:38",
+      "2018/07/13:17:44:10",
+      "2017/06/09:21:39:27",
+      "2019/05/12:17:52:42"
+    ],
+    "cd23614c-8fc2-46a7-ba1e-a2ef321ce07e": [
+      "2023/08/23:20:29:11"
+    ],
+    "d4b8b58f-cf94-4a25-b22c-aab0a2f6bd7f": [
+      "2024/02/21:17:36:14",
+      "2024/02/21:17:34:30"
+    ],
+    "d99173da-6027-49bf-8744-d1a42a0eddef": [
+      "2023/08/13:10:22:50"
+    ],
+    "d9d116b7-40f0-4d56-9807-56591caa49ca": [
+      "2020/10/04:05:00:00"
+    ],
+    "e7b59c95-6934-48a2-ae75-b8b1a16e49e9": [
+      "2021/12/25:19:17:25"
+    ],
+    "edbcc484-e6a3-4f18-b547-1e5804dca7d8": [
+      "2023/05/01:17:46:04",
+      "2023/04/25:21:33:19"
+    ],
+    "f9a8b386-44dd-4a7e-b7c1-a3f876cd207c": [
+      "2083/07/22:16:44:22"
+    ]
+  },
+  "websites": [
+    "www.dma-cheats.com",
+    "en.exloader.net",
+    "pl.exloader.net",
+    "it.exloader.net",
+    "es.exloader.net",
+    "ar.exloader.net",
+    "vi.exloader.net",
+    "id.exloader.net",
+    "ko.exloader.net",
+    "fr.exloader.net",
+    "tr.exloader.net",
+    "cn.exloader.net",
+    "kk.exloader.net",
+    "hi.exloader.net",
+    "pt.exloader.net",
+    "uz.exloader.net",
+    "ro.exloader.net",
+    "cs.exloader.net",
+    "mn.exloader.net",
+    "exloader.net",
+    "ua.exloader.net",
+    "de.exloader.net",
+    "aimjunkies.com",
+    "primerose.xyz",
+    "brutancheats.com",
+    "monstermenu.cc",
+    "skript.gg",
+    "eulencheats.com",
+    "eulen.cc",
+    "redengine.eu",
+    "projectcheats.com",
+    "hxcheats.tech",
+    "susano.re",
+    "gosth.gg",
+    "tzproject.com",
+    "hydrogen.ac",
+    "xennsu.io",
+    "tgmodz.com",
+    "runnerchair.xyz",
+    "redengine.net",
+    "88-cheats.xyz",
+    "0xcheats.net",
+    "seereselling.de",
+    "nexusmenu.com",
+    "josmods.shop",
+    "x-reselling.com",
+    "fluzshop.com",
+    "420-services.net",
+    "blackout.wtf",
+    "tokyomkt.com",
+    "midnight.im",
+    "spezz.exchange",
+    "sergiu.pro"
+  ],
+  "urls": [],
+  "vpnHostnames": [
+    "www.mysteriumvpn.com",
+    "www.wireguard.com",
+    "mullvad.net",
+    "torguard.net",
+    "www.azirevpn.com",
+    "nordvpn.com",
+    "hide.me"
+  ],
+  "vpnURLs": [],
+  "shell": [
+    {
+      "pattern": "^flushdns",
+      "allowCommand": null,
+      "allowArgs": null,
+      "severity": "warn",
+      "explain": "flushDNS"
+    },
+    {
+      "pattern": ".*dscacheutil -flushcache.*",
+      "allowCommand": null,
+      "allowArgs": null,
+      "severity": "warn",
+      "explain": "flushDNS"
+    },
+    {
+      "pattern": ".*killall -HUP mDNSResponder.*",
+      "allowCommand": null,
+      "allowArgs": null,
+      "severity": "warn",
+      "explain": "restartDNS"
+    }
+  ],
+  "recording": [],
+  "strings": {
+    "processes": [
+      "svc:DiagTrack",
+      "lsass.exe",
+      "svc:DiagTrack",
+      "svc:dnscache",
+      "lsass.exe",
+      "dwm.exe",
+      "explorer.exe",
+      "atieclxx.exe",
+      "ctfmon.exe",
+      "FiveM_GTAProcess.exe",
+      "svc:.sha1",
+      "WmiPrvSE.exe"
+    ],
+    "strings": [
+      {
+        "name": "e4f8172c-f3ad-492a-8156-9f1f2c59d85d",
+        "process": "svc:DiagTrack",
+        "string": "reg delete hkey_current_user\\software\\microsoft\\windows\\currentversion\\explorer\\runmru /va /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "82ca5703-75a9-4b34-ad58-3f95c00a25c5",
+        "process": "svc:DiagTrack",
+        "string": "start /MIN cmd.exe /C \"del %windir%\\Prefetch",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "046ef3e8-150e-4159-b22b-d8f81424d388",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn createjournal m=2147483648 a=1 C:\\",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "42e5d569-5717-45e4-90f4-1211abef4380",
+        "process": "svc:DiagTrack",
+        "string": "cmd.exe /C \"del %windir%\\Prefetch",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "bb0228ea-5658-47d1-b3e6-e746467db8c9",
+        "process": "svc:DiagTrack",
+        "string": ".pf /f /q >nul & reg delete",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b7c5de08-1a8b-4a71-bb37-236ee4406060",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "6cae0bef-6362-4303-907e-659aef0740af",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d c:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "1888f6e4-da80-4135-a348-267c57b63742",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d d:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "90612fee-24be-48cd-bc50-adab038f1ec8",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d e:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "59ec9c7a-d46c-450a-9c2a-46d8a450795e",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d f:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "89ad0e5e-47f5-4a60-9415-159a1d890684",
+        "process": "svc:DiagTrack",
+        "string": "/c ping 1.1.1.1 -n 1 -w 3000 > nul & del /f /q",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5d6aa852-772d-4610-9589-cd49719bd10a",
+        "process": "svc:DiagTrack",
+        "string": "/c ipconfig /flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "bf74a9b0-b74d-4570-9a35-c8063fd6634b",
+        "process": "svc:DiagTrack",
+        "string": "ipconfig/flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "1107ef34-2ea9-4e53-9ba7-448a11c36b5e",
+        "process": "svc:DiagTrack",
+        "string": "ipconfig /flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "e20c8078-9a57-407e-997e-4a7240a7e5d8",
+        "process": "svc:DiagTrack",
+        "string": "fsutil deletejournal",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "9a36b33d-9c90-4b47-8a02-89868f79bdd4",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn createjournal m=2147483648 a=1 C",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "d3370d9f-88c6-4631-8776-1750f1ad18c1",
+        "process": "svc:DiagTrack",
+        "string": "vssadmin delete shadows /for=c: /all",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8bb3b251-f0b3-4120-a0b8-b756bf6caae7",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Windows\\Prefetch\\*.pf",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "0c3e5a48-aac0-4f32-bfea-e9b4845e816e",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Users\\%USERNAME%\\AppData\\Local\\Temp\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "4ba56247-4352-4b41-ba20-cd953a12beae",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "35a3ae61-a7cd-48df-8d79-346bc7faecb0",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "2a956fb7-07a9-4508-a900-e3f633788e9f",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\CustomDestinations\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "11890713-e1d1-4bee-a19d-1a689668bb54",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl Application",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "252b3142-b22f-42ae-929c-40d6381d7dc8",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl Security",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "744bc6d5-50b5-4ad3-ae8f-267ec8cfd807",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl System",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "eb6666d5-554d-484c-b6a0-d9ab032a2021",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil el | ForEach-Object { wevtutil cl \"$_\" }",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "718901d0-4364-4948-8cbd-74f9e5e33982",
+        "process": "svc:DiagTrack",
+        "string": "reg delete HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "e7187581-0d49-4723-935b-14366a71846c",
+        "process": "svc:DiagTrack",
+        "string": "reg delete HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RecentDocs /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b3f4dc33-4d59-4de2-8ed4-d521a7e84166",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Windows\\Temp\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "01abb3e1-3f87-4123-b47f-094ba9884551",
+        "process": "svc:DiagTrack",
+        "string": "cleanmgr /sagerun:1",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "31f461cd-8a30-419e-98a9-b6966ecf461b",
+        "process": "svc:DiagTrack",
+        "string": "rd /s /q C:\\$Recycle.Bin",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "beba1436-e3ad-450c-88c8-d32ceb651fe8",
+        "process": "svc:DiagTrack",
+        "string": "rd /s /q C:\\Windows\\Temp",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b8069015-ddd7-4326-91fb-43ef882ec509",
+        "process": "svc:DiagTrack",
+        "string": "net stop EventLog",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "c20d64be-2e00-4318-8ce8-bc49fd2785af",
+        "process": "svc:DiagTrack",
+        "string": "sc config EventLog start= disabled",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "230c00fa-0516-4449-bf40-8451966f3351",
+        "process": "svc:DiagTrack",
+        "string": "sc stop EventLog",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "ab81d9c1-d0b3-48e3-8260-4f8b0cbdcfd0",
+        "process": "svc:DiagTrack",
+        "string": "reg add \"HKLM\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management\" /v ClearPageFileAtShutdown /t REG_DWORD /d 1 /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "20ff5b5b-c200-4be1-8c73-48e1587e6a80",
+        "process": "svc:DiagTrack",
+        "string": "powercfg -h off",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "18324acf-d8f4-4b72-b420-1644a742832d",
+        "process": "svc:DiagTrack",
+        "string": "cmd /c del \"%~f0\"",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "81a7608b-f5a7-415e-b3bf-424fab53e5bf",
+        "process": "lsass.exe",
+        "string": "keyauth.win",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "72cffa8b-e310-429a-93b7-afca0fdee169",
+        "process": "lsass.exe",
+        "string": "keyauth.cc",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "d58e63b4-ace8-4d14-a130-1613e00d07f3",
+        "process": "svc:DiagTrack",
+        "string": "Penguin Macro Switcher",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8d79a2de-dc65-4f95-8d71-010042beba01",
+        "process": "svc:DiagTrack",
+        "string": "Penguin_Switcher_DLL.dll",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "7acda5ce-eb7f-4046-ad96-f21be1b8f081",
+        "process": "svc:DiagTrack",
+        "string": "reg delete hkey_current_user\\software\\microsoft\\windows\\currentversion\\explorer\\runmru /va /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5abc469d-4f3b-4125-be8b-b8912ab8b9c9",
+        "process": "svc:DiagTrack",
+        "string": "start /MIN cmd.exe /C \"del %windir%\\Prefetch",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "7bd43dbc-6a9c-41a4-9e43-5c52e0c9a135",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn createjournal m=2147483648 a=1 C:\\",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "d15a4063-c7f3-4da9-9332-2dad7b8f4d3e",
+        "process": "svc:DiagTrack",
+        "string": "cmd.exe /C \"del %windir%\\Prefetch",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "6bb1aee5-a787-40f9-a7d0-b827d3848b23",
+        "process": "svc:DiagTrack",
+        "string": ".pf /f /q >nul & reg delete",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "2279509f-1f11-4377-b67a-dbb86ee03ddd",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "62828ea8-aff4-402a-a99b-51108293b933",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d c:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "038df6d0-f7a4-4a42-83ce-81efbf7bbcb0",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d d:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "08aa2d15-54b9-4104-84dc-9deb1ba49083",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d e:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "a17a473b-063f-44f0-8040-baa4a3af6529",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn deletejournal /d f:",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "cbc18f97-b3dd-4018-969e-3fbac4a61659",
+        "process": "svc:DiagTrack",
+        "string": "/c ping 1.1.1.1 -n 1 -w 3000 > nul & del /f /q",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "1cd8eaa4-0806-4978-a169-db8003337c8e",
+        "process": "svc:DiagTrack",
+        "string": "/c ipconfig /flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "1dd7a80b-9660-4175-90ae-542e25c032cf",
+        "process": "svc:DiagTrack",
+        "string": "ipconfig/flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b11d9d02-c6d8-4e4e-a491-8bf54cd82c74",
+        "process": "svc:DiagTrack",
+        "string": "ipconfig /flushdns",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "fa9ec05b-cdef-4ddb-9f6d-905e8e343150",
+        "process": "svc:DiagTrack",
+        "string": "fsutil deletejournal",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "d04be492-b0c5-4407-9460-c79db6758150",
+        "process": "svc:DiagTrack",
+        "string": "fsutil usn createjournal m=2147483648 a=1 C",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "3e3f5c4c-8b86-4fe8-b7db-8e03d4e7331e",
+        "process": "svc:DiagTrack",
+        "string": "vssadmin delete shadows /for=c: /all",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "3afe2a6b-25e1-44c1-9a79-b0815e875c5e",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Windows\\Prefetch\\*.pf",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "0f2acbfe-82eb-4396-9963-80d72bce461a",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Users\\%USERNAME%\\AppData\\Local\\Temp\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b9d402d2-3489-4d62-84d8-7d29223660c1",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5c781b08-ee9f-486d-b2c5-ed2fb18b51a1",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\AutomaticDestinations\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "0d12d6c8-cf9a-4645-8408-c71a76f30406",
+        "process": "svc:DiagTrack",
+        "string": "del /f /s /q %APPDATA%\\Microsoft\\Windows\\Recent\\CustomDestinations\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "f25765c0-265d-4f45-9c7b-5dce28ea678b",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl Application",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "61a3ff60-7072-42c8-8c08-f3a9257d7dea",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl Security",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "06edb820-acaf-493b-ad1c-a2872894ebc8",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil cl System",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "17aa146a-7ca5-418a-9260-58ed6d7bd714",
+        "process": "svc:DiagTrack",
+        "string": "wevtutil el | ForEach-Object { wevtutil cl \"$_\" }",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "81867ab8-7d97-4077-89cc-c4052888a38c",
+        "process": "svc:DiagTrack",
+        "string": "reg delete HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "7db4efff-733b-44cf-b3ec-179ead52d41e",
+        "process": "svc:DiagTrack",
+        "string": "reg delete HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RecentDocs /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "ba2fbde3-b63d-4c59-929f-27dec815ab81",
+        "process": "svc:DiagTrack",
+        "string": "del /s /q C:\\Windows\\Temp\\*",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "635c16fd-9560-465e-9010-df9a58ab26c8",
+        "process": "svc:DiagTrack",
+        "string": "cleanmgr /sagerun:1",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8c0b5774-5140-4306-a8dc-6810ca348ec8",
+        "process": "svc:DiagTrack",
+        "string": "rd /s /q C:\\$Recycle.Bin",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "2a760604-c19c-42d2-83cf-4e4a803c5671",
+        "process": "svc:DiagTrack",
+        "string": "rd /s /q C:\\Windows\\Temp",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b8e82d11-1908-4f8b-88e2-5d84c78daa7f",
+        "process": "svc:DiagTrack",
+        "string": "net stop EventLog",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "9627e32f-8f1b-41ba-b343-70b81f65e57f",
+        "process": "svc:DiagTrack",
+        "string": "sc config EventLog start= disabled",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "0951ebca-92ba-4eee-9850-937740f46506",
+        "process": "svc:DiagTrack",
+        "string": "sc stop EventLog",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "d37f15f1-6dff-44b6-a68d-0791dbd4b25a",
+        "process": "svc:DiagTrack",
+        "string": "reg add \"HKLM\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management\" /v ClearPageFileAtShutdown /t REG_DWORD /d 1 /f",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "f18064c4-ad33-4e5c-832c-dd5a40ed5ec0",
+        "process": "svc:DiagTrack",
+        "string": "powercfg -h off",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "e4ee8854-d840-4be6-9bad-16b45fc7a446",
+        "process": "svc:DiagTrack",
+        "string": "cmd /c del \"%~f0\"",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "163dc365-2eb8-425e-a279-31a7a606ba44",
+        "process": "svc:dnscache",
+        "string": "rocketrust.store",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8a760987-8a43-4482-93c8-d0a0a222b2fc",
+        "process": "svc:dnscache",
+        "string": "*.rocketrust.store",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "531a4126-51ec-400f-80c2-9396a9cc0e43",
+        "process": "svc:dnscache",
+        "string": "dedicated.vyst.host",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "9f133369-46bc-4049-9afd-0ebc1903176c",
+        "process": "svc:dnscache",
+        "string": "dedicated.vyst.host",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "060322e7-21ab-4232-be17-41a0a3a95c8c",
+        "process": "svc:dnscache",
+        "string": "auth.redengine.net",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "c6a43539-278e-4956-ac2f-632e76d0a00c",
+        "process": "svc:dnscache",
+        "string": "vps-32704700.vps.ovh.ca",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "32780159-5815-45b4-b039-eb63a88cfaa3",
+        "process": "svc:dnscache",
+        "string": "api-three.pedrin.cc",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "85207a3e-1961-47b5-b4c0-66214ffcb799",
+        "process": "svc:dnscache",
+        "string": "shey.tech",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "a1866f4d-3b12-4fb2-8a45-44374e7c3bbd",
+        "process": "svc:dnscache",
+        "string": "runnerchair.xyz",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "efa9ee2d-9fe2-417c-be7f-2907986253fc",
+        "process": "lsass.exe",
+        "string": "api-three.pedrin.cc",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "52cc809a-8d78-4ea0-95c3-8e68c492efdb",
+        "process": "lsass.exe",
+        "string": "77.221.159.5",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "2277547d-fe49-485c-b65a-c235b727270c",
+        "process": "lsass.exe",
+        "string": "demoneye.cc",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "044a2bff-ffe4-4a33-8e73-55ee9f1b05a1",
+        "process": "lsass.exe",
+        "string": "pastefree.net",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "b42019ea-04b0-41d7-9437-1f6ce2c339e4",
+        "process": "lsass.exe",
+        "string": "stoppedbypass.com",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5d5500a9-e3c9-48af-9d30-a2ba2fbde257",
+        "process": "lsass.exe",
+        "string": "stoppedbypass.com0",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "a8dc2147-92bd-4f35-9530-64730c350c24",
+        "process": "lsass.exe",
+        "string": "*,stoppedbypass.com",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "07ccac57-d095-4567-a9c2-d6d6bbcd57e7",
+        "process": "lsass.exe",
+        "string": "*,stoppedbypass.com0",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "57335acd-d48c-477e-b107-f1396b05d938",
+        "process": "lsass.exe",
+        "string": "api.tzproject.com",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5f81acd3-59f2-40c2-883a-25e556981bf0",
+        "process": "lsass.exe",
+        "string": "machocheats.com",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "4184ee54-7bfa-4186-8917-639f6554063c",
+        "process": "lsass.exe",
+        "string": "45.140.164.244",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "7b3cb0f9-cd6f-48e6-8700-09a88bc41a74",
+        "process": "lsass.exe",
+        "string": "rocketrust.store",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "c75ba84f-a9e3-4a71-abd5-5d3be1ade7e3",
+        "process": "lsass.exe",
+        "string": "*.rocketrust.store",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "dfe1df95-7bf9-4a81-a439-867c0b4a5f4a",
+        "process": "lsass.exe",
+        "string": "projectdow.com",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "e5bfa85d-1efe-4b03-b382-5b7e86e6a377",
+        "process": "lsass.exe",
+        "string": "shey.tech",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "bfad2c03-f502-44dd-a06d-21e1ef90b12a",
+        "process": "lsass.exe",
+        "string": "vps-32704700.vps.ovh.ca",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "a32895b4-929f-4de6-9b1b-b30f17ea9e2d",
+        "process": "lsass.exe",
+        "string": "SiltasVolfukas",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "1633be58-c353-4827-bfa8-ee679ab1ac0f",
+        "process": "lsass.exe",
+        "string": "*.skript.gg",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "833b2edb-a37a-4fc3-8884-27039a745400",
+        "process": "lsass.exe",
+        "string": "skript.gg",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "af975fe2-709f-424a-9b6b-471f62ea60e8",
+        "process": "lsass.exe",
+        "string": "testo.gg",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "cc83d4ce-dc46-4c5d-b73c-857e9bfb476b",
+        "process": "lsass.exe",
+        "string": "runnerchair.xyz",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "66d7d323-6cd0-4e4e-80bb-e9329f0b41bf",
+        "process": "lsass.exe",
+        "string": "susano.re",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "e855e862-097c-4c42-8ec4-d628901aafdd",
+        "process": "dwm.exe",
+        "string": "tooltip_class32",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "074b7440-18da-4ead-a1e8-170962783b03",
+        "process": "dwm.exe",
+        "string": "TESTO.GG",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "48e77f10-95d0-4bc1-9c6d-51de25ba69b8",
+        "process": "explorer.exe",
+        "string": "tooltip_class32",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "22230e14-3f26-4499-91a1-83da005f33c3",
+        "process": "explorer.exe",
+        "string": "timor omnium verifiers",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "68a40715-68a1-4e6f-8fc0-2948ce384504",
+        "process": "explorer.exe",
+        "string": "anti-echo on top.",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "ee5cc992-bdfe-4072-96f2-964908c72357",
+        "process": "explorer.exe",
+        "string": "Johannes Schwein Stresser",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "5d9d10f6-a625-4a87-b1d4-a1ab9c1bf972",
+        "process": "explorer.exe",
+        "string": "2PACALYPSE",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8764f9e9-1296-4f59-b68f-b8db136d44b2",
+        "process": "explorer.exe",
+        "string": "C:\\Windows\\apppatch\\msmain.sdb",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "79d21ff5-4bf0-4843-aa5d-bec0b8431400",
+        "process": "explorer.exe",
+        "string": "WindowsUpdate.txt",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "8e58ce68-4cce-4177-bca8-1532ba7d42f4",
+        "process": "explorer.exe",
+        "string": "Coded by Alberto",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "9741b763-2547-4a2e-854a-d99a2077aa5a",
+        "process": "atieclxx.exe",
+        "string": "ProcName=msedge.exe, AppWindowWidth=300, appWindowHeight=315",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "2bc4e367-b2be-4b55-8c93-94f688048398",
+        "process": "ctfmon.exe",
+        "string": "tooltip_class32",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "aaed6893-956e-430f-a8f3-627f941e9e88",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "WPzIU4M3BA",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "dba3142e-6429-4697-ba77-aa2adb94eeeb",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Silent enabled",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6784148c-1fa3-487c-b2c3-71c1e7ef25fc",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Pedrin/Websocket",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f587dc88-b560-4c43-a339-7726593f3b95",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "191.96.81.227",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a291ddf0-1eff-4129-88b2-112971a04814",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Choose Skeletons Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6c097427-c198-47df-af7a-82de18af05f7",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Enable/Disable Godmode",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "03ae10e8-237f-444d-9d2e-5d13e6ed4dc2",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Choose Invisible Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "902f4510-46da-4dd6-8be0-b731b39b2274",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Key to Hold for Aimbot",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "5197ce0f-165a-41a5-91ae-db0dd3e35198",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "getweaponobjectfromped",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "72beac80-504a-4502-bad0-a9bb675ba941",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Bind to Active ESP",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "fa71f90e-9fc5-499c-b0d9-02f155a19efe",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Show field of view",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "476eee1b-af22-4fc3-93c5-1db9244dc7fb",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Spectate to player",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f250b145-cad5-49c4-b96e-4b8e26b27aff",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Check if ped is npc",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "004f9261-ff4d-492c-81b3-beaf4c113bb5",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "setcurrentpedweapon",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "642eb7b3-74f0-4526-a602-4ec47e495f67",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Check invisible ped",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "25e5c50a-dbd4-4b7c-8784-e1bb64f77994",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Key to Hold for ESP",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e6a5ba3c-81a0-4dcd-a9c4-136e1ab143fb",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw skeletons",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e0eb7cba-f6b9-4f58-bb29-e9280301a93c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Like a X and Y",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a3ecb49e-1344-4eec-9b6e-28ad7d56001a",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot Enabled",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "4cf6c1d6-44ce-4167-a335-ed85eed146f7",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Clear Anim",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "5bdfbde6-6170-4fd7-b076-0ce86dd75440",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Check invisible",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d3a0663e-e8d1-4da4-8357-70776826e7be",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Visuals enabled",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a538a459-e99f-4ee8-8699-0c347096506d",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Trigger enabled",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "58b4d578-61de-4956-b7ba-cfd578eef11f",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Select Box Type",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "24f7bd1b-10eb-45b0-b6d8-142f0251a548",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw armour bar",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "418020c7-8a54-4c58-b075-041688a8ef98",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot Distance",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "42f9df17-17ba-491f-a984-a26158c83170",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Chose Fov Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "c08d2172-2bd0-4376-b42e-214a6a568148",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Save config in",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "3a6dff0c-73c7-440f-870a-e2a0377122d6",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "HP, Armour type",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "00523121-6254-4cd4-9dec-b2bfb9df1828",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "haspedgotweapon",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "601a365d-29ab-4380-9326-b3aa0c92a575",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw player box",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "c1ba5f50-367e-42ec-ba1d-0b8a40b8333e",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw health bar",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "31450fe7-16b6-457f-a80f-77bdc0a9f2e1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Silent distance",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "645af23c-ccec-4e69-b970-7ef65da62ad8",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "GLOBAL SETTINGS",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f8070fa2-2242-49eb-b5ba-869c04c4c25b",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Detailed Smooth",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "2eff979d-0689-4312-93ee-718ab176bd59",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Select Bar Type",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "388a7e4d-015e-4e49-a23d-ae594094b6d7",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Health Value",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "59128146-4d7d-4ef6-9998-2d79db9a1fc6",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Godmode Bind",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "71a6bc58-5de7-43b3-a108-80ce2fbb77a1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw nametags",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "695e3607-f6b1-4258-b34b-4d5b4ee847f3",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Choose Text Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "4628589e-ce37-4c90-a4f3-0ade21581b8e",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Silent Bone",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "cd767148-ac3a-4c88-a3f6-289015a68d98",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Clear Blood",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d2674d3b-d6b5-4d4b-9497-37e1451ba33c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Noclip hold",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "73e6e7f8-7fbe-4ddc-be00-40cdb05a349f",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Spec player",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "b154ccee-8af4-4dc0-92f8-8dbffa94d4d3",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Pull Player",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "48565477-7bd0-4cee-ba5f-9e7fc4e363b2",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Sweep walls",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "11dfcdc9-ede4-4cc5-824e-a5f8a86f1cba",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot type",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "b9c16c26-fd87-4d24-a61a-336fbfcd328d",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Check walls",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "3a8ba81f-2218-458d-b3fc-65bfd596eca0",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Noclip bind",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "9cd5ea02-c709-428f-82d9-a8ac48b9b4a0",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot Bone",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "5c5ad1ef-ed7c-475c-a374-f0dcecaf0e38",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Draw head circle",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "7f215336-ac10-4462-9617-d5c0489ca576",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Choose Box Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "cf216e0c-67eb-44b6-8afa-a7933c8b46aa",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Release\\citizen-resources-gta-.pdb",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "73a9635c-c148-4b34-914e-4202ff294ab3",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "imbot_",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "97518277-7c08-46eb-a36b-0d557cf9e9c9",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "aimbot.main",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6b1fb94e-2865-4072-bf81-7bef341619eb",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "aimbot_sC",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "ae052af3-bc38-4b64-b90c-5c479f5d2741",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "aimbot_target",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a09febab-b74f-4e65-885f-babf69413be8",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "aimbot_keytoggle",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a42d1e6e-13bf-4824-8662-a27ac5cb0dde",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aim Settings.main",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d383554d-b961-495b-9e96-d202980f6c14",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aim Settings",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "2f671525-d8f1-4522-b809-dcdcd2b194b1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "esp_pedestrians.weapon",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "b6254dcd-0177-40e2-914f-d1ad90cd369e",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "esp_players.color_skeleton",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d4127086-28a1-4c9a-9b17-258eb21c695c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "ESP Settings",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6a513bd5-da7d-454b-8bb9-c8a74f953116",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "ESP Settings.main",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "7acc064e-7ec2-4dea-bb2c-99d6099bee73",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "ESP keybind",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e13141d3-9385-4152-b2b5-d9230c580d1f",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Tecla do Aimbot",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "cc335e97-8ad5-4b72-b030-9c5da3a7d71e",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Sticky Aimbot",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "30fc2bdd-e6e4-4eb7-be8a-eed8a88274dd",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Silent Aimbot",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "ebbef6fa-d506-4a42-804f-921a534e2f04",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Tecla do Triggerbot",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "037fa472-c652-477f-a0aa-1b99d1dd72a6",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "target combatrolling",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e83e95fc-77d2-48b3-949f-11bad0e7e4d2",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Semi-Godmode",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "db7d88ea-b081-43cc-8f0b-dea28638367f",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "kernelbase.NormalizeString",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "ee1513b7-cb7d-4d7d-97b3-2d60ebd176db",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "kernelbase.IsNormalizedString",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e49cc122-e815-447e-ac0b-14345b3b54c0",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "imguinotify.hpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "dfb0abf1-7c39-4a55-8e58-026267857220",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\d3d10.pdb",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "7aef0f74-645b-49ff-bce4-60a5a880b4ed",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "d3d10_2.dll",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "37297d66-66e0-4e05-ba21-f8c65bc5d997",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "keyauth.win",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f37005c4-1c5b-499c-98b8-d2c89aee0909",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "keyauth.cc",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "505e5e8d-465c-42e2-9ca9-df25f431f9c1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "keyauth.com",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "93ad656c-daba-4667-9829-84e09db87f02",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imgui.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "b9b671ea-cff1-4495-8b00-1d4bc60c0791",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "/imgui.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "45b8abc0-5ffc-43a3-9c21-9c711bbae770",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "d3d11hook.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "69bc4765-28ab-4243-b466-5acc48e745e8",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "rijndael_simd.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "43a43089-d08b-4823-9f89-c67e2c1b09ed",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "sha_simd.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "524dc015-0248-4aeb-87d1-895ba48a870c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "gf2n_simd.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "75143ab9-e01b-4bcb-8d97-adc20acfed7c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "normaliz.pdb",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "c2dbb624-f68c-43f5-8d8a-185407c59fb1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "menu/##",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e00d94a8-56cd-4676-ba4d-3a5bd833a57c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "d3d11bltdxgi.hpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "2f5de553-1730-43f3-b251-309214fd40c7",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TP Pier",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "63ff29c9-7274-45f7-b0b4-4b3f505451f8",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TP Paleto Bay",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "963ac94b-c529-4f55-afb4-dc46fa676cb1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot Target",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "8270d9d2-30b5-4496-bd9d-c23e41be2e04",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot_Enable",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "8525101c-514a-42a8-a5c9-a2d299b758bd",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot_maxDistance",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d0ebbb85-6959-4087-bec7-e34757e3f0f4",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot FOV",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6dcf2017-3a04-4611-824b-b950288ffcd6",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Aimbot Fov Color",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "119ed299-12b5-401b-a003-a4d2cd6eb0d4",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "hydragg.xyz",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "83d2aa5f-478c-4d17-a8ac-4236803ef528",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Movement.main",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "7b93a5e8-67c2-4a14-b149-3a0d228ca04e",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Snaplines",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6dadf689-8ced-485d-8a50-e6c05d979dd6",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TRIGLegit",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "b513874e-2490-4fbd-a96c-500bd3d615c4",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Trigger Distance",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6964e558-ccce-481c-9383-1e870759e531",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "RADAR_INPLAYERS",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "339c06cf-231a-4f37-ad33-3e0e7ffbe032",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Check NPCS",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "0c4339c4-961a-499a-9b41-962c66e51d9c",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "favorites.cfg",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "74ada730-ddf3-4cbc-8916-1ffe8cdc4801",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "L?Teleporte",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "ef1c5453-ed58-4952-9823-7b2094be39da",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "L?Unbound",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e4cf23c5-216b-4359-88dd-413ecc625d69",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "L?Outros",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e44ed9ad-9e1a-4dde-bba1-131f78e7e07d",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "A>c8?",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "29b4262e-56ac-4a47-9b6a-4dd2a7040026",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Release\\sk_launcher.pdb",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a92816fc-6b80-4751-b5fb-8bd251211678",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TD Cheats",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "07e5a256-fc5c-44f5-b150-39712ae34f73",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TDFreeExternal",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "e4126baa-aad7-457a-bd29-9e2f45b6b224",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TDPremiumExternal",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f32b3309-0bfa-4400-869d-56b01d9c9fbf",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "TDLoaderX.exe",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "2a181be4-b4ea-46c1-a169-63e94fad0418",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "eternitycheats.net",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "19594810-4128-4873-a3e3-d70131433079",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\ggzeramenu\\",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "08e384d3-be4b-4a7a-85c5-3c093db1f958",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "WindowsME.exe",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f373ec48-82b8-4a2b-8eb0-31c745895612",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "C:\\Artemis",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "a408309e-de98-4422-b9ad-03a4dca44475",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "winrar.exe.mui",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6833c38e-55f4-44bb-88d1-2a2d21bcb947",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "stoppedbypass.com",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "c2cb36cd-44b7-492b-8f5d-b97656af8cf5",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "xerecao.com",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "20032146-6d4e-4649-a556-0b115740cfba",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "menukeyyyy",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "054ec083-c7da-485f-b25f-c2920c317d04",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Unicore/##",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "6cb3e04e-b951-4553-9d38-194a2a049e18",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "/flyside/",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d3570952-4d53-4b6f-9683-61c380ce24f5",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "xenon-solution.xyz",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "777b0550-2910-4917-857e-cdcf97559390",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "Femboyware.pdb",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "5d754e4e-eb93-4966-ba5d-56cbeed86204",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "projectcheats.com",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "d6a4addf-3ed3-45d9-be69-be391b18f24b",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "api.tzproject.com",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "4c44a166-42d2-404b-8004-aff73f82a8c8",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imgui_widgets.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "c8d916b4-8f86-4c57-8949-d3f1b74998f1",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imstb_textedit.h",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "9a027334-bbc6-4af8-81b7-f9c5d684b6fd",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imgui_tables.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "44745a1e-fe93-4630-a1a8-30bcbf1b2ecc",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imgui_draw.cpp",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "3b69e7df-9d35-4f22-ae31-8ef98c97c08a",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imstb_truetype.h",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "2439d5f3-91a8-4233-9424-d221773bfd71",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imstb_rectpack.h",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "f82b96b7-80f5-4dd3-b427-0183fa8bd489",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\imgui_internal.h",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "09f50c59-a281-47f5-ac15-88a39c9e5b25",
+        "process": "FiveM_GTAProcess.exe",
+        "string": "\\Json.h",
+        "in_instance": true,
+        "severity": ""
+      },
+      {
+        "name": "95370cd4-6c52-4c8e-bc2b-7a7f92a25432",
+        "process": "svc:.sha1",
+        "string": "321684ad00246673cedb70ac06d07a06a7be8bf4",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "a3d27ff4-def9-44e8-923e-0805936431da",
+        "process": "svc:.sha1",
+        "string": "666cec7b52f8f84d80ad6214eba62158816caff2",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "80d0af63-4f67-4e48-8a88-726c05f7f111",
+        "process": "svc:.sha1",
+        "string": "d3bcc1a2288d45fc51e22554cb40c4d887cad333",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "6e06adce-c399-4834-8917-78758a338393",
+        "process": "svc:.sha1",
+        "string": "10c366ed0d42c4027aaf98af935f95bbaa3bc9e0",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "c756aaed-6a4a-4f04-a44e-50a19c855c07",
+        "process": "svc:.sha1",
+        "string": "1699b594612cb29084c10117dc17762ee94c2f78",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "16b97abe-716d-488e-bc12-37f562e414f2",
+        "process": "svc:.sha1",
+        "string": "a2bb42f3a8416b8014706bdb3cc55ded2e64be67",
+        "in_instance": false,
+        "severity": ""
+      },
+      {
+        "name": "bc470e18-0486-4bc0-b3a1-dd3ebc496e94",
+        "process": "WmiPrvSE.exe",
+        "string": "\"C:\\Program Files (x86)\\Steambin\\cef\\cef.win7x64\\steamwebhelper.exe\"",
+        "in_instance": true,
+        "severity": ""
+      }
+    ]
+  },
+  "blacklist": [
+    "nvoawrappercache.exe",
+    "microsoft.servicehub.controll",
+    "backgrounddownload.exe"
+  ],
+  "yara": [
+    {
+      "name": "d2c827a7-3464-4bc3-aed5-cd6172f16ba9",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule projectloader\r\n{\r\n    strings:\r\n        $b = {5B 31 5D 20 59 6F 75 20 6D 75 73 74 20 66 69 72 73 74 20 6F 70 65 6E 20 74 68 65 20 4C 6F 61 64 65 72 0A 20 20 5B 32 5D 20 53 65 6C 65 63 74 20 74 68 65 20 46 69 76 65 4D 20 70 72 6F 64 75 63 74 20 6F 6E 20 74 68 65 20 77 65 62 73 69 74 65 2E}\r\n    condition:\r\n        $b\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "b1c626ff-fd34-44b0-8d68-cac6a4d6b6b2",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule cleanerdlldropper\r\n{\r\n    strings:\r\n        $a1 = \"sc stop sysmain\"\r\n        $a2 = \"curl -k -o \\\"C:\\\\Windows\\\\SysWOW64\\\\\"\r\n        $a3 = \"shutdown /r /t 0\"\r\n        $a4 = \"cls\"\r\n        $a5 = \"https://serapi.mom/\"\r\n    condition:\r\n        3 of ($a*) or all of ($a1, $a2, $a3) or $a5\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "f9726c15-5751-4475-a845-eb453bde1c92",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule cfxlovers\r\n{\r\n    strings:\r\n        $b = {43 20 3A 20 5C 20 55 20 73 20 65 20 72 20 73 20 5C 20 74 20 61 20 68 20 61 20 72 20 5C 20 44 20 65 20 73 20 6B 20 74 20 6F 20 70 20 5C 20 74 20 6F 20 75 20 74 20 5C 20 43 20 68 20 65 20 61 20 74 20 5C 20 50 20 72 20 69 20 64 20 65 20 68 20 6F 20 6F 20 6B}\r\n    condition:\r\n        $b\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "9fb9e44a-0f99-4fc7-ab7a-8df6ec2fb761",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule GosthExternal\r\n{\r\n\tstrings:\r\n\t\t$a = {21 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F 53 20 6D 6F 64 65}\r\n\t\t$b = {61 69 6D 62 6F 74 5F 61 63 74 69 76 65}\r\n\t\t$c = {73 69 6C 65 6E 74 5F 61 63 74 69 76 65}\r\n\t\t$d = {65 73 70 5F 6B 65 79 00 65 73 70 5F 6E 70 63 00 65 73 70 5F 61 63 74 69 76 65}\t\t\r\n\t\t$e = {65 73 70 5F 73 6B 65 6C 65 74 6F 6E}\r\n\tcondition:\r\n\t\tall of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "8fd149d7-256a-40c9-b07f-501b99b5d61e",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule RPF\r\n{\r\n    strings:\r\n        $a = \"process hollowing\" wide ascii \r\n    condition:\r\n        $a\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "a5464ab9-9ac3-4a66-bb1c-e85720d707df",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule RPF\r\n{\r\n    strings:\r\n        $a = \"processhollowing\" wide ascii \r\n    condition:\r\n        $a\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "4ebfa6a7-8ecc-46a2-a728-c3b321c81606",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule RPF\r\n{\r\n    strings:\r\n        $a = \"hollowing process\" wide ascii \r\n    condition:\r\n        $a\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "d08cf69e-0649-4ad1-b384-ac25bae338a4",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule RPF\r\n{\r\n    strings:\r\n        $a = \"process hollowed\" wide ascii \r\n    condition:\r\n        $a\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "fa197288-1803-4a3f-a875-177465ca5bb8",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule Skript {\r\n    meta:\r\n        name = \"Skript\"\r\n        severity = \"severe\"\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"VWATAVAWH\"\r\n        $string2 = \"D3D11CreateDeviceAndSwapChain\"\r\n        $string3 = \"sk_launcher.pdb\"\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "9a18d75f-ffb7-4539-ba0e-be3fdf86b108",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule Eulen {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"D3D11CreateDeviceAndSwapChain\"\r\n        $string2 = \"d3d11.dll\"\r\n        $string3 = \"GetComputerNameA\"\r\n        $string4 = \"api-ms-win-crt-locale-l1-1-0.dll\"\r\n        $string5 = \"api-ms-win-crt-time-l1-1-0.dll\"\r\n        $string6 = \"SHGetKnownFolderPath\"\r\n        $string7 = \"UuidToStringW\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "7130875e-e7dd-4ebe-b042-bb84dbc7509e",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule FlySide {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"api-ms-win-crt-utility-l1-1-0.dll\"\r\n        $string2 = \"D3DCOMPILER_43.dll\"\r\n        $string3 = \"WLDAP32.dll\"\r\n        $string4 = \"GDI32.dll\"\r\n        $string5 = \"ole32.dll\"\r\n        $string6 = \"VCRUNTIME140.dll\"\r\n        $string7 = \"d3dx11_43.dll\"\r\n        $string8 = \"WINHTTP.dll\"\r\n        $string9 = \"D3D11CreateDeviceAndSwapChain\"\r\n        $string10 = \"D3DX11CreateShaderResourceViewFromMemory\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "31bec01d-e62a-4238-aff6-031d965c5e39",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule MindsellingCleaner {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"MindCleaner.Login.resources\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "2e722a39-f256-42c0-b5f0-0a51b417417b",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule HxCheats {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"@.gay0\"\r\n        $string2 = \"D3DXCreateTextureFromFileInMemory\"\r\n        $string3 = \"d3dx9_43.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "3b435e00-3f6e-4475-8319-b6501f1696e5",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule RedEngine {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"XINPUT1_3.dll\"\r\n        $string2 = \"D3DXCreateTextureFromFileInMemory\"\r\n        $string3 = \"d3dx9_43.dll\"\r\n        $string4 = \"IMM32.dll\"\r\n        $string5 = \"d3d9.dll\"\r\n        $string6 = \"dxgi.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "ad1a96a8-97f0-40af-8f38-8fd63c1a1bb7",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule Susano {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"Loader.exe\"\r\n        $string2 = \"SHGetDiskFreeSpaceA\"\r\n        $string3 = \"curl_easy_cleanup\"\r\n        $string4 = \"GetCursor\"\r\n        $string5 = \"@.data\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "cdaf57d4-f3da-46a2-bd03-48379780a96d",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule TZX {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \".svh1\"\r\n        $string2 = \"D3D11CreateDevice\"\r\n        $string3 = \"WTSAPI32.dll\"\r\n        $string4 = \"IMM32.dll\"\r\n        $string5 = \"d3d11.dll\"\r\n        $string6 = \"ADVAPI32.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "d166e3d4-c408-43f1-befa-4e85fe08f173",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule Unicore {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"kernel32.dll\"\r\n        $string2 = \"CFGMGR32.dll\"\r\n        $string3 = \"IPHLPAPI.DLL\"\r\n        $string4 = \"d3d9.dll\"\r\n        $string5 = \"ADVAPI32.dll\"\r\n        $string6 = \"SHELL32.dll\"\r\n        $string7 = \"ole32.dll\"\r\n        $string8 = \"WS2_32.dll\"\r\n        $string9 = \"HID.DLL\"\r\n        $string10 = \"SETUPAPI.dll\"\r\n        $string11 = \"ntdll.dll\"\r\n        $string12 = \"SHLWAPI.dll\"\r\n        $string13 = \"NETAPI32.dll\"\r\n        $string14 = \"StrStrIW\"\r\n        $string15 = \"VLPGzu\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "dafb59ab-b08a-42b2-ae16-fc6205325216",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule LeetCheat {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"kernel32.dll\"\r\n        $string2 = \"d3d11.dll\"\r\n        $string3 = \"D3DCOMPILER_43.dll\"\r\n        $string4 = \"WS2_32.dll\"\r\n        $string5 = \"USER32.dll\"\r\n        $string6 = \"ADVAPI32.dll\"\r\n        $string7 = \"SHELL32.dll\"\r\n        $string8 = \"ntdll.dll\"\r\n        $string9 = \"IMM32.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "2c6df07f-f321-4a4e-8912-0a8af39c88be",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule AmphCheat {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"WININET.dll\"\r\n        $string2 = \"IMM32.dll\"\r\n        $string3 = \"d3dx11_43.dll\"\r\n        $string4 = \"D3DCOMPILER_47.dll\"\r\n        $string5 = \"KERNEL32.dll\"\r\n        $string6 = \"USER32.dll\"\r\n        $string7 = \"SHELL32.dll\"\r\n        $string8 = \"d3d11.dll\"\r\n        $string9 = \"OLEAUT32.dll\"\r\n        $string10 = \"ADVAPI32.dll\"\r\n        $string11 = \"urlmon.dll\"\r\n        $string12 = \"CRYPT32.dll\"\r\n        $string13 = \"ntdll.dll\"\r\n        $string14 = \"WLDAP32.dll\"\r\n        $string15 = \"WS2_32.dll\"\r\n        $string16 = \"bcrypt.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "a5078e41-7c08-4157-9e75-e9be1a731f1d",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule VanishBypass {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"Cleaner_Load\"\r\n        $string2 = \"get_lastlogin\"\r\n        $string3 = \"DiscordMessage\"\r\n        $string4 = \"1337 Injected!\"\r\n        $string5 = \"ExecuteMemoryCleaning\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "cad67da4-9188-4378-be57-b7fb1b64d982",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule HydroGen {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"D3DXCreateTextureFromFileInMemory\"\r\n        $string2 = \"USER32.dll\"\r\n        $string3 = \"KERNEL32.dll\"\r\n        $string4 = \"ntdll.dll\"\r\n        $string5 = \"d3d9.dll\"\r\n        $string6 = \"WS2_32.dll\"\r\n        $string7 = \"OLEAUT32.dll\"\r\n        $string8 = \"d3dx9_43.dll\"\r\n        $string9 = \"ADVAPI32.dll\"\r\n        $string10 = \"SHELL32.dll\"\r\n\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "98a9daee-563c-435b-a156-436cae96aa8a",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule nullx32 {\r\n    meta:\r\n        author = \"Sommer\"\r\n    strings:\r\n        $stringExe = \"!This program cannot be run in DOS mode.\"\r\n        $string1 = \"\\\\config\\\\config.json\"\r\n        $string2 = \"Enabled##Aimbot\"\r\n        $string3 = \"Style##PedVisualsBox\" \r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "2fde870d-5695-4feb-bf49-9694b31ffbda",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "rule LuRue {\r\n    strings:\r\n        $stringEXE = \"This program cannot be run in DOS mode\"\r\n        $string1 = \"imgui_log.txt\"\r\n        $string2 = \"FiveM_GTAProcess.exe\"\r\n        $string3 = \"Trigger bot\"\r\n    condition:\r\n        all of them\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "72dc1158-7b48-49a4-b267-0182668dd85f",
+      "enabled": true,
+      "warning": false,
+      "rule": [
+        "import \"pe\"\r\n\r\nrule EngineControl {\r\n    strings:\r\n        $exeString = \"!This program cannot be run in DOS mode.\"\r\n        $string1 = \".RvP(\"\r\n    condition:\r\n        any of them and pe.imphash() == \"bd28167c2266512d34002d70334dab19\"\r\n}"
+      ],
+      "hide_file_name": false
+    },
+    {
+      "name": "f5b734a6-0a07-442b-b937-6437257e8f93",
+      "enabled": false,
+      "warning": false,
+      "rule": [
+        "rule generic_cheat {\r\n    meta:\r\n        Author = \"Sommer\"\r\n    strings:\r\n        $stringExe = \"!This program cannot be run in DOS mode.\"\r\n        $string1 = \"dagger\"\r\n        $string2 = \"bottle\"\r\n        $string3 = \"crowbar\"\r\n        $string4 = \"unarmed\"\r\n        $string5 = \"flashlight\"\r\n        $string6 = \"golfclub\"\r\n        $string7 = \"hammer\"\r\n        $string8 = \"hatchet\"\r\n        $string9 = \"knuckle\"\r\n        $string10 = \"knife\"\r\n        $string11 = \"machete\"\r\n        $string12 = \"switchblade\"\r\n        $string13 = \"nightstick\"\r\n        $string14 = \"wrench\"\r\n        $string15 = \"battleaxe\"\r\n        $string16 = \"poolcue\"\r\n        $string17 = \"stone_hatchet\"\r\n        $string18 = \"pistol\"\r\n        $string19 = \"pistol_mk2\"\r\n        $string20 = \"combatpistol\"\r\n        $string21 = \"appistol\"\r\n        $string22 = \"stungun\"\r\n        $string23 = \"pistol50\"\r\n        $string24 = \"snspistol\"\r\n        $string25 = \"snspistol_mk2\"\r\n        $string26 = \"heavypistol\"\r\n        $string27 = \"vintagepistol\"\r\n        $string28 = \"flaregun\"\r\n        $string29 = \"marksmanpistol\"\r\n        $string30 = \"revolver\"\r\n        $string31 = \"revolver_mk2\"\r\n        $string32 = \"doubleaction\"\r\n        $string33 = \"raypistol\"\r\n        $string34 = \"ceramicpistol\"\r\n        $string35 = \"navyrevolver\"\r\n        $string36 = \"microsmg\"\r\n        $string37 = \"smg_mk2\"\r\n        $string38 = \"assaultsmg\"\r\n        $string39 = \"combatpdw\"\r\n        $string40 = \"machinepistol\"\r\n        $string41 = \"minismg\"\r\n        $string42 = \"raycarbine\"\r\n        $string43 = \"pumpshotgun\"\r\n        $string44 = \"pumpshotgun_mk2\"\r\n        $string45 = \"sawnoffshotgun\"\r\n        $string46 = \"assaultshotgun\"\r\n        $string47 = \"bullpupshotgun\"\r\n        $string48 = \"musket\"\r\n        $string49 = \"heavyshotgun\"\r\n        $string50 = \"dbshotgun\"\r\n        $string51 = \"autoshotgun\"\r\n        $string52 = \"assaultrifle\"\r\n        $string53 = \"assaultrifle_mk2\"\r\n        $string54 = \"carbinerifle\"\r\n        $string55 = \"carbinerifle_mk2\"\r\n        $string56 = \"advancedrifle\"\r\n        $string57 = \"specialcarbine\"\r\n        $string58 = \"specialcarbine_mk2\"\r\n        $string59 = \"bullpuprifle\"\r\n        $string60 = \"bullpuprifle_mk2\"\r\n        $string61 = \"compactrifle\"\r\n        $string62 = \"combatmg\"\r\n        $string63 = \"combatmg_mk2\"\r\n        $string64 = \"gusenberg\"\r\n        $string65 = \"sniperrifle\"\r\n        $string66 = \"heavysniper\"\r\n        $string67 = \"heavysniper_mk2\"\r\n        $string68 = \"marksmanrifle\"\r\n        $string69 = \"marksmanrifle_mk2\"\r\n        $string70 = \"grenadelauncher\"\r\n        $string71 = \"grenadelauncher_smoke\"\r\n        $string72 = \"minigun\"\r\n        $string73 = \"firework\"\r\n        $string74 = \"railgun\"\r\n        $string75 = \"hominglauncher\"\r\n        $string76 = \"compactlauncher\"\r\n        $string77 = \"rayminigun\"\r\n        $string78 = \"grenade\"\r\n        $string79 = \"bzgas\"\r\n        $string80 = \"smokegrenade\"\r\n        $string81 = \"flare\"\r\n        $string82 = \"molotov\"\r\n        $string83 = \"stickybomb\"\r\n        $string84 = \"proxmine\"\r\n        $string85 = \"snowball\"\r\n        $string86 = \"pipebomb\"\r\n        $stringa1 = \"general_noclip_enabled\"\r\n        $stringa2 = \"general_noclip_speed\"\r\n        $stringa3 = \"keybinds_menu_open\"\r\n        $stringa4 = \"keybinds_aimbot\"\r\n        $stringa5 = \"aimbot_enabled\"\r\n        $stringa6 = \"aimbot_draw_selected_bone\"\r\n        $stringa7 = \"aimbot_selected_bone\"\r\n        $stringa8 = \"aimbot_selected_bone_color\"\r\n        $stringa9 = \"aimbot_smooth_enabled\"\r\n        $stringa10 = \"aimbot_smooth_speed\"\r\n        $stringa11 = \"aimbot_draw_fov\"\r\n        $stringa12 = \"aimbot_fov_size\"\r\n        $stringa13 = \"aimbot_fov_color\"\r\n        $stringa14 = \"vehicles_enabled\"\r\n        $stringa15 = \"vehicles_range\"\r\n        $stringa16 = \"vehicles_enable_vehicle_count\"\r\n        $stringa17 = \"players_enabled\"\r\n        $stringa18 = \"players_range\"\r\n        $stringa19 = \"players_bones_ebaled\"\r\n        $stringa20 = \"players_bones_color\"\r\n        $stringa21 = \"players_box_enabled\"\r\n        $stringa22 = \"players_box_type\"\r\n        $stringa23 = \"players_box_color\"\r\n        $stringa24 = \"players_health_bar_enabled\"\r\n        $stringa25 = \"players_health_bar_type\"\r\n        $stringa26 = \"players_health_bar_color\"\r\n        $stringa27 = \"players_armor_bar_enabled\"\r\n        $stringa28 = \"players_armor_bar_type\"\r\n        $stringa29 = \"players_armor_bar_color\"\r\n        $stringa30 = \"players_weapon_enabled\"\r\n        $stringa31 = \"players_weapon_color\"\r\n        $stringa32 = \"players_distance_enabled\"\r\n        $stringa33 = \"players_distance_color\"\r\n        $stringa34 = \"players_enable_player_count\"\r\n        $stringa35 = \"players_enable_admin_count\"\r\n    condition:\r\n        6 of them\r\n}"
+      ],
+      "hide_file_name": false
+    }
+  ],
+  "yaraSearchDirectories": []
+}
